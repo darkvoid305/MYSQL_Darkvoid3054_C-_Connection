@@ -1,0 +1,10 @@
+C:\Users\darkv\source\repos\dataBaseConnectionTest\dataBaseConnectionTest\bin\Debug\dataBaseConnectionTest.exe.config
+C:\Users\darkv\source\repos\dataBaseConnectionTest\dataBaseConnectionTest\bin\Debug\dataBaseConnectionTest.exe
+C:\Users\darkv\source\repos\dataBaseConnectionTest\dataBaseConnectionTest\bin\Debug\dataBaseConnectionTest.pdb
+C:\Users\darkv\source\repos\dataBaseConnectionTest\dataBaseConnectionTest\obj\Debug\dataBaseConnectionTest.csprojAssemblyReference.cache
+C:\Users\darkv\source\repos\dataBaseConnectionTest\dataBaseConnectionTest\obj\Debug\dataBaseConnectionTest.Properties.Resources.resources
+C:\Users\darkv\source\repos\dataBaseConnectionTest\dataBaseConnectionTest\obj\Debug\dataBaseConnectionTest.csproj.GenerateResource.cache
+C:\Users\darkv\source\repos\dataBaseConnectionTest\dataBaseConnectionTest\obj\Debug\dataBaseConnectionTest.csproj.CoreCompileInputs.cache
+C:\Users\darkv\source\repos\dataBaseConnectionTest\dataBaseConnectionTest\obj\Debug\dataBaseConnectionTest.exe
+C:\Users\darkv\source\repos\dataBaseConnectionTest\dataBaseConnectionTest\obj\Debug\dataBaseConnectionTest.pdb
+C:\Users\darkv\source\repos\dataBaseConnectionTest\dataBaseConnectionTest\obj\Debug\dataBaseConnectionTest.Form1.resources
